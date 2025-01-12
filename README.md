@@ -3,6 +3,7 @@
 <img align="right" width="400" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ3NWV3NW40NWUzdmh4Z20zcDNmd3dqYjk0ZHpzbTJwbm9naHNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.webp" >
 
 - 🌱 I’m currently learning **Java with DSA**
+- 🌱 I have completed **MERN Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
