@@ -1,10 +1,11 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
 <h1 align="center">Hi 👋, I'm Shubham Jaiswal</h1>
 <h3 align="center">Full Stack Development intern at Cognifyz Technologies | Innovative | Eager to learn | Reliable | Pursuing B.Tech</h3>
 <img align="right" width="400" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ3NWV3NW40NWUzdmh4Z20zcDNmd3dqYjk0ZHpzbTJwbm9naHNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.webp">
 
 - 🌱 I’m currently learning **Java with DSA**
 - 🌱 I have completed **MERN Stack Development**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamJaiswal-Engg&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamJaiswal" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubhamjaiswalengg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubhamjaiswalengg" height="30" width="40" /></a>
