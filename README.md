@@ -44,8 +44,9 @@
 
 
 ---
-
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjaiswal-engg&show_icons=true&locale=en&layout=compact" alt="shubhamjaiswal-engg" /></p>
+<div>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shubhamjaiswal-engg&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 
 ---
